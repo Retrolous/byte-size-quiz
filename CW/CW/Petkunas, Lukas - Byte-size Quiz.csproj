@@ -1,0 +1,386 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="packages\Microsoft.CodeAnalysis.Analyzers.3.3.2\build\Microsoft.CodeAnalysis.Analyzers.props" Condition="Exists('packages\Microsoft.CodeAnalysis.Analyzers.3.3.2\build\Microsoft.CodeAnalysis.Analyzers.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{76D3A4AC-1030-4827-8822-A97AAF8C588F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Petkunas__Lukas___Byte_size_Quiz</RootNamespace>
+    <AssemblyName>Petkunas, Lukas - Byte-size Quiz</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CodeAnalysis, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.CodeAnalysis.Common.4.0.1\lib\netstandard2.0\Microsoft.CodeAnalysis.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CodeAnalysis.CSharp, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.CodeAnalysis.CSharp.4.0.1\lib\netstandard2.0\Microsoft.CodeAnalysis.CSharp.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Web.WebView2.Core, Version=1.0.2739.15, Culture=neutral, PublicKeyToken=2a8ab48044d2601e, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.Web.WebView2.1.0.2739.15\lib\net462\Microsoft.Web.WebView2.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Web.WebView2.WinForms, Version=1.0.2739.15, Culture=neutral, PublicKeyToken=2a8ab48044d2601e, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.Web.WebView2.1.0.2739.15\lib\net462\Microsoft.Web.WebView2.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Web.WebView2.Wpf, Version=1.0.2739.15, Culture=neutral, PublicKeyToken=2a8ab48044d2601e, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.Web.WebView2.1.0.2739.15\lib\net462\Microsoft.Web.WebView2.Wpf.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Buffers, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.Buffers.4.5.1\lib\net461\System.Buffers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Collections.Immutable, Version=5.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>packages\System.Collections.Immutable.5.0.0\lib\net461\System.Collections.Immutable.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Core" />
+    <Reference Include="System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.Memory.4.5.4\lib\net461\System.Memory.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Numerics.Vectors, Version=4.1.4.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>packages\System.Numerics.Vectors.4.5.0\lib\net46\System.Numerics.Vectors.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Reflection.Metadata, Version=5.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>packages\System.Reflection.Metadata.5.0.0\lib\net461\System.Reflection.Metadata.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.CompilerServices.Unsafe, Version=5.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>packages\System.Runtime.CompilerServices.Unsafe.5.0.0\lib\net45\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Text.Encoding.CodePages, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>packages\System.Text.Encoding.CodePages.4.5.1\lib\net461\System.Text.Encoding.CodePages.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Threading.Tasks.Extensions, Version=4.2.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.Threading.Tasks.Extensions.4.5.4\lib\net461\System.Threading.Tasks.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BaseForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BaseForm.Designer.cs">
+      <DependentUpon>BaseForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmChallenge3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmChallenge3.Designer.cs">
+      <DependentUpon>frmChallenge3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CurrentUser.cs" />
+    <Compile Include="frmChallenge1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmChallenge1.Designer.cs">
+      <DependentUpon>frmChallenge1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmChallenge2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmChallenge2.Designer.cs">
+      <DependentUpon>frmChallenge2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmHelp1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmHelp1.Designer.cs">
+      <DependentUpon>frmHelp1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmHelp2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmHelp2.Designer.cs">
+      <DependentUpon>frmHelp2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmHelp3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmHelp3.Designer.cs">
+      <DependentUpon>frmHelp3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmHelpMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmHelpMain.Designer.cs">
+      <DependentUpon>frmHelpMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLeaderboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLeaderboard.Designer.cs">
+      <DependentUpon>frmLeaderboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLogin.Designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMainMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMainMenu.Designer.cs">
+      <DependentUpon>frmMainMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmModifyUsers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmModifyUsers.Designer.cs">
+      <DependentUpon>frmModifyUsers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmRegister.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRegister.Designer.cs">
+      <DependentUpon>frmRegister.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmStaffMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmStaffMenu.Designer.cs">
+      <DependentUpon>frmStaffMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LogicGateQuestion.cs" />
+    <Compile Include="LogicGates.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ProgrammingQuestion.cs" />
+    <Compile Include="PuzzleElements.cs" />
+    <Compile Include="frmShutdown.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmShutdown.Designer.cs">
+      <DependentUpon>frmShutdown.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TextBoxStreamWriter.cs" />
+    <Compile Include="User.cs" />
+    <EmbeddedResource Include="frmChallenge1.resx">
+      <DependentUpon>frmChallenge1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmChallenge2.resx">
+      <DependentUpon>frmChallenge2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmChallenge3.resx">
+      <DependentUpon>frmChallenge3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmHelp1.resx">
+      <DependentUpon>frmHelp1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmHelp2.resx">
+      <DependentUpon>frmHelp2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmHelp3.resx">
+      <DependentUpon>frmHelp3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmHelpMain.resx">
+      <DependentUpon>frmHelpMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLeaderboard.resx">
+      <DependentUpon>frmLeaderboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMainMenu.resx">
+      <DependentUpon>frmMainMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmModifyUsers.resx">
+      <DependentUpon>frmModifyUsers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRegister.resx">
+      <DependentUpon>frmRegister.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmShutdown.resx">
+      <DependentUpon>frmShutdown.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmStaffMenu.resx">
+      <DependentUpon>frmStaffMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include=".editorconfig" />
+    <None Include="MonacoCodeEditor\min\vs\base\browser\ui\codicons\codicon\codicon.ttf" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="MonacoCodeEditor\index.html" />
+    <Content Include="MonacoCodeEditor\min\vs\base\worker\workerMain.js" />
+    <Content Include="MonacoCodeEditor\min\vs\basic-languages\abap\abap.js" />
+    <Content Include="MonacoCodeEditor\min\vs\basic-languages\apex\apex.js" />
+    <Content Include="MonacoCodeEditor\min\vs\basic-languages\azcli\azcli.js" />
+    <Content Include="MonacoCodeEditor\min\vs\basic-languages\bat\bat.js" />
+    <Content Include="MonacoCodeEditor\min\vs\basic-languages\bicep\bicep.js" />
+    <Content Include="MonacoCodeEditor\min\vs\basic-languages\cameligo\cameligo.js" />
+    <Content Include="MonacoCodeEditor\min\vs\basic-languages\clojure\clojure.js" />
+    <Content Include="MonacoCodeEditor\min\vs\basic-languages\coffee\coffee.js" />
+    <Content Include="MonacoCodeEditor\min\vs\basic-languages\cpp\cpp.js" />
+    <Content Include="MonacoCodeEditor\min\vs\basic-languages\csharp\csharp.js" />
+    <Content Include="MonacoCodeEditor\min\vs\basic-languages\csp\csp.js" />
+    <Content Include="MonacoCodeEditor\min\vs\basic-languages\css\css.js" />
+    <Content Include="MonacoCodeEditor\min\vs\basic-languages\cypher\cypher.js" />
+    <Content Include="MonacoCodeEditor\min\vs\basic-languages\dart\dart.js" />
+    <Content Include="MonacoCodeEditor\min\vs\basic-languages\dockerfile\dockerfile.js" />
+    <Content Include="MonacoCodeEditor\min\vs\basic-languages\ecl\ecl.js" />
+    <Content Include="MonacoCodeEditor\min\vs\basic-languages\elixir\elixir.js" />
+    <Content Include="MonacoCodeEditor\min\vs\basic-languages\flow9\flow9.js" />
+    <Content Include="MonacoCodeEditor\min\vs\basic-languages\freemarker2\freemarker2.js" />
+    <Content Include="MonacoCodeEditor\min\vs\basic-languages\fsharp\fsharp.js" />
+    <Content Include="MonacoCodeEditor\min\vs\basic-languages\go\go.js" />
+    <Content Include="MonacoCodeEditor\min\vs\basic-languages\graphql\graphql.js" />
+    <Content Include="MonacoCodeEditor\min\vs\basic-languages\handlebars\handlebars.js" />
+    <Content Include="MonacoCodeEditor\min\vs\basic-languages\hcl\hcl.js" />
+    <Content Include="MonacoCodeEditor\min\vs\basic-languages\html\html.js" />
+    <Content Include="MonacoCodeEditor\min\vs\basic-languages\ini\ini.js" />
+    <Content Include="MonacoCodeEditor\min\vs\basic-languages\javascript\javascript.js" />
+    <Content Include="MonacoCodeEditor\min\vs\basic-languages\java\java.js" />
+    <Content Include="MonacoCodeEditor\min\vs\basic-languages\julia\julia.js" />
+    <Content Include="MonacoCodeEditor\min\vs\basic-languages\kotlin\kotlin.js" />
+    <Content Include="MonacoCodeEditor\min\vs\basic-languages\less\less.js" />
+    <Content Include="MonacoCodeEditor\min\vs\basic-languages\lexon\lexon.js" />
+    <Content Include="MonacoCodeEditor\min\vs\basic-languages\liquid\liquid.js" />
+    <Content Include="MonacoCodeEditor\min\vs\basic-languages\lua\lua.js" />
+    <Content Include="MonacoCodeEditor\min\vs\basic-languages\m3\m3.js" />
+    <Content Include="MonacoCodeEditor\min\vs\basic-languages\markdown\markdown.js" />
+    <Content Include="MonacoCodeEditor\min\vs\basic-languages\mdx\mdx.js" />
+    <Content Include="MonacoCodeEditor\min\vs\basic-languages\mips\mips.js" />
+    <Content Include="MonacoCodeEditor\min\vs\basic-languages\msdax\msdax.js" />
+    <Content Include="MonacoCodeEditor\min\vs\basic-languages\mysql\mysql.js" />
+    <Content Include="MonacoCodeEditor\min\vs\basic-languages\objective-c\objective-c.js" />
+    <Content Include="MonacoCodeEditor\min\vs\basic-languages\pascaligo\pascaligo.js" />
+    <Content Include="MonacoCodeEditor\min\vs\basic-languages\pascal\pascal.js" />
+    <Content Include="MonacoCodeEditor\min\vs\basic-languages\perl\perl.js" />
+    <Content Include="MonacoCodeEditor\min\vs\basic-languages\pgsql\pgsql.js" />
+    <Content Include="MonacoCodeEditor\min\vs\basic-languages\php\php.js" />
+    <Content Include="MonacoCodeEditor\min\vs\basic-languages\pla\pla.js" />
+    <Content Include="MonacoCodeEditor\min\vs\basic-languages\postiats\postiats.js" />
+    <Content Include="MonacoCodeEditor\min\vs\basic-languages\powerquery\powerquery.js" />
+    <Content Include="MonacoCodeEditor\min\vs\basic-languages\powershell\powershell.js" />
+    <Content Include="MonacoCodeEditor\min\vs\basic-languages\protobuf\protobuf.js" />
+    <Content Include="MonacoCodeEditor\min\vs\basic-languages\pug\pug.js" />
+    <Content Include="MonacoCodeEditor\min\vs\basic-languages\python\python.js" />
+    <Content Include="MonacoCodeEditor\min\vs\basic-languages\qsharp\qsharp.js" />
+    <Content Include="MonacoCodeEditor\min\vs\basic-languages\razor\razor.js" />
+    <Content Include="MonacoCodeEditor\min\vs\basic-languages\redis\redis.js" />
+    <Content Include="MonacoCodeEditor\min\vs\basic-languages\redshift\redshift.js" />
+    <Content Include="MonacoCodeEditor\min\vs\basic-languages\restructuredtext\restructuredtext.js" />
+    <Content Include="MonacoCodeEditor\min\vs\basic-languages\ruby\ruby.js" />
+    <Content Include="MonacoCodeEditor\min\vs\basic-languages\rust\rust.js" />
+    <Content Include="MonacoCodeEditor\min\vs\basic-languages\r\r.js" />
+    <Content Include="MonacoCodeEditor\min\vs\basic-languages\sb\sb.js" />
+    <Content Include="MonacoCodeEditor\min\vs\basic-languages\scala\scala.js" />
+    <Content Include="MonacoCodeEditor\min\vs\basic-languages\scheme\scheme.js" />
+    <Content Include="MonacoCodeEditor\min\vs\basic-languages\scss\scss.js" />
+    <Content Include="MonacoCodeEditor\min\vs\basic-languages\shell\shell.js" />
+    <Content Include="MonacoCodeEditor\min\vs\basic-languages\solidity\solidity.js" />
+    <Content Include="MonacoCodeEditor\min\vs\basic-languages\sophia\sophia.js" />
+    <Content Include="MonacoCodeEditor\min\vs\basic-languages\sparql\sparql.js" />
+    <Content Include="MonacoCodeEditor\min\vs\basic-languages\sql\sql.js" />
+    <Content Include="MonacoCodeEditor\min\vs\basic-languages\st\st.js" />
+    <Content Include="MonacoCodeEditor\min\vs\basic-languages\swift\swift.js" />
+    <Content Include="MonacoCodeEditor\min\vs\basic-languages\systemverilog\systemverilog.js" />
+    <Content Include="MonacoCodeEditor\min\vs\basic-languages\tcl\tcl.js" />
+    <Content Include="MonacoCodeEditor\min\vs\basic-languages\twig\twig.js" />
+    <Content Include="MonacoCodeEditor\min\vs\basic-languages\typescript\typescript.js" />
+    <Content Include="MonacoCodeEditor\min\vs\basic-languages\typespec\typespec.js" />
+    <Content Include="MonacoCodeEditor\min\vs\basic-languages\vb\vb.js" />
+    <Content Include="MonacoCodeEditor\min\vs\basic-languages\wgsl\wgsl.js" />
+    <Content Include="MonacoCodeEditor\min\vs\basic-languages\xml\xml.js" />
+    <Content Include="MonacoCodeEditor\min\vs\basic-languages\yaml\yaml.js" />
+    <Content Include="MonacoCodeEditor\min\vs\editor\editor.main.css" />
+    <Content Include="MonacoCodeEditor\min\vs\editor\editor.main.js" />
+    <Content Include="MonacoCodeEditor\min\vs\language\css\cssMode.js" />
+    <Content Include="MonacoCodeEditor\min\vs\language\css\cssWorker.js" />
+    <Content Include="MonacoCodeEditor\min\vs\language\html\htmlMode.js" />
+    <Content Include="MonacoCodeEditor\min\vs\language\html\htmlWorker.js" />
+    <Content Include="MonacoCodeEditor\min\vs\language\json\jsonMode.js" />
+    <Content Include="MonacoCodeEditor\min\vs\language\json\jsonWorker.js" />
+    <Content Include="MonacoCodeEditor\min\vs\language\typescript\tsMode.js" />
+    <Content Include="MonacoCodeEditor\min\vs\language\typescript\tsWorker.js" />
+    <Content Include="MonacoCodeEditor\min\vs\loader.js" />
+    <Content Include="MonacoCodeEditor\min\vs\nls.messages.de.js" />
+    <Content Include="MonacoCodeEditor\min\vs\nls.messages.es.js" />
+    <Content Include="MonacoCodeEditor\min\vs\nls.messages.fr.js" />
+    <Content Include="MonacoCodeEditor\min\vs\nls.messages.it.js" />
+    <Content Include="MonacoCodeEditor\min\vs\nls.messages.ja.js" />
+    <Content Include="MonacoCodeEditor\min\vs\nls.messages.ko.js" />
+    <Content Include="MonacoCodeEditor\min\vs\nls.messages.ru.js" />
+    <Content Include="MonacoCodeEditor\min\vs\nls.messages.zh-cn.js" />
+    <Content Include="MonacoCodeEditor\min\vs\nls.messages.zh-tw.js" />
+    <Content Include="MonacoCodeEditor\**">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Analyzer Include="packages\Microsoft.CodeAnalysis.Analyzers.3.3.2\analyzers\dotnet\cs\Microsoft.CodeAnalysis.Analyzers.dll" />
+    <Analyzer Include="packages\Microsoft.CodeAnalysis.Analyzers.3.3.2\analyzers\dotnet\cs\Microsoft.CodeAnalysis.CSharp.Analyzers.dll" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="TextFiles\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('packages\Microsoft.CodeAnalysis.Analyzers.3.3.2\build\Microsoft.CodeAnalysis.Analyzers.props')" Text="$([System.String]::Format('$(ErrorText)', 'packages\Microsoft.CodeAnalysis.Analyzers.3.3.2\build\Microsoft.CodeAnalysis.Analyzers.props'))" />
+    <Error Condition="!Exists('packages\Microsoft.CodeAnalysis.Analyzers.3.3.2\build\Microsoft.CodeAnalysis.Analyzers.targets')" Text="$([System.String]::Format('$(ErrorText)', 'packages\Microsoft.CodeAnalysis.Analyzers.3.3.2\build\Microsoft.CodeAnalysis.Analyzers.targets'))" />
+    <Error Condition="!Exists('packages\Microsoft.Web.WebView2.1.0.2739.15\build\Microsoft.Web.WebView2.targets')" Text="$([System.String]::Format('$(ErrorText)', 'packages\Microsoft.Web.WebView2.1.0.2739.15\build\Microsoft.Web.WebView2.targets'))" />
+  </Target>
+  <Import Project="packages\Microsoft.CodeAnalysis.Analyzers.3.3.2\build\Microsoft.CodeAnalysis.Analyzers.targets" Condition="Exists('packages\Microsoft.CodeAnalysis.Analyzers.3.3.2\build\Microsoft.CodeAnalysis.Analyzers.targets')" />
+  <Import Project="packages\Microsoft.Web.WebView2.1.0.2739.15\build\Microsoft.Web.WebView2.targets" Condition="Exists('packages\Microsoft.Web.WebView2.1.0.2739.15\build\Microsoft.Web.WebView2.targets')" />
+</Project>

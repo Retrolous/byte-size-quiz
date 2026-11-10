@@ -1,0 +1,315 @@
+C:\Users\lpetkunas546\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\Petkunas, Lukas - Byte-size Quiz.exe.config
+C:\Users\lpetkunas546\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\Petkunas, Lukas - Byte-size Quiz.exe
+C:\Users\lpetkunas546\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\Petkunas, Lukas - Byte-size Quiz.pdb
+C:\Users\lpetkunas546\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\obj\Debug\Petkunas, Lukas - Byte-size Quiz.csproj.AssemblyReference.cache
+C:\Users\lpetkunas546\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\obj\Debug\Petkunas__Lukas___Byte_size_Quiz.frmLogin.resources
+C:\Users\lpetkunas546\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\obj\Debug\Petkunas__Lukas___Byte_size_Quiz.frmMainMenu.resources
+C:\Users\lpetkunas546\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\obj\Debug\Petkunas__Lukas___Byte_size_Quiz.Properties.Resources.resources
+C:\Users\lpetkunas546\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\obj\Debug\Petkunas, Lukas - Byte-size Quiz.csproj.GenerateResource.cache
+C:\Users\lpetkunas546\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\obj\Debug\Petkunas, Lukas - Byte-size Quiz.csproj.CoreCompileInputs.cache
+C:\Users\lpetkunas546\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\obj\Debug\Petkunas, Lukas - Byte-size Quiz.exe
+C:\Users\lpetkunas546\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\obj\Debug\Petkunas, Lukas - Byte-size Quiz.pdb
+C:\Users\lpetkunas546\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\lpetkunas546\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\lpetkunas546\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\lpetkunas546\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\Microsoft.Web.WebView2.Core.dll
+C:\Users\lpetkunas546\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\lpetkunas546\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\lpetkunas546\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\Microsoft.Web.WebView2.Core.xml
+C:\Users\lpetkunas546\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\Microsoft.Web.WebView2.WinForms.xml
+C:\Users\lpetkunas546\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\Microsoft.Web.WebView2.Wpf.xml
+C:\Users\lpetkunas546\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\obj\Debug\Petkunas__Lukas___Byte_size_Quiz.frmChallenge1.resources
+C:\Users\lpetkunas546\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\obj\Debug\Petkunas__Lukas___Byte_size_Quiz.frmRegister.resources
+C:\Users\lpetkunas546\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\obj\Debug\Petkunas, Lukas - Byte-size Quiz.csproj.CopyComplete
+C:\Users\lpetkunas546\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\MonacoCodeEditor\index.html
+C:\Users\lpetkunas546\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\MonacoCodeEditor\min\vs\base\browser\ui\codicons\codicon\codicon.ttf
+C:\Users\lpetkunas546\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\MonacoCodeEditor\min\vs\base\worker\workerMain.js
+C:\Users\lpetkunas546\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\MonacoCodeEditor\min\vs\basic-languages\csharp\csharp.js
+C:\Users\lpetkunas546\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\MonacoCodeEditor\min\vs\editor\editor.main.css
+C:\Users\lpetkunas546\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\MonacoCodeEditor\min\vs\editor\editor.main.js
+C:\Users\lpetkunas546\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\MonacoCodeEditor\min\vs\language\css\cssMode.js
+C:\Users\lpetkunas546\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\MonacoCodeEditor\min\vs\language\css\cssWorker.js
+C:\Users\lpetkunas546\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\MonacoCodeEditor\min\vs\language\html\htmlMode.js
+C:\Users\lpetkunas546\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\MonacoCodeEditor\min\vs\language\html\htmlWorker.js
+C:\Users\lpetkunas546\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\MonacoCodeEditor\min\vs\language\json\jsonMode.js
+C:\Users\lpetkunas546\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\MonacoCodeEditor\min\vs\language\json\jsonWorker.js
+C:\Users\lpetkunas546\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\MonacoCodeEditor\min\vs\language\typescript\tsMode.js
+C:\Users\lpetkunas546\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\MonacoCodeEditor\min\vs\language\typescript\tsWorker.js
+C:\Users\lpetkunas546\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\MonacoCodeEditor\min\vs\loader.js
+C:\Users\lpetkunas546\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\MonacoCodeEditor\min\vs\nls.messages.de.js
+C:\Users\lpetkunas546\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\MonacoCodeEditor\min\vs\nls.messages.es.js
+C:\Users\lpetkunas546\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\MonacoCodeEditor\min\vs\nls.messages.fr.js
+C:\Users\lpetkunas546\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\MonacoCodeEditor\min\vs\nls.messages.it.js
+C:\Users\lpetkunas546\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\MonacoCodeEditor\min\vs\nls.messages.ja.js
+C:\Users\lpetkunas546\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\MonacoCodeEditor\min\vs\nls.messages.ko.js
+C:\Users\lpetkunas546\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\MonacoCodeEditor\min\vs\nls.messages.ru.js
+C:\Users\lpetkunas546\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\MonacoCodeEditor\min\vs\nls.messages.zh-cn.js
+C:\Users\lpetkunas546\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\MonacoCodeEditor\min\vs\nls.messages.zh-tw.js
+C:\Users\lpetkunas546\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\lpetkunas546\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\Microsoft.CodeAnalysis.dll
+C:\Users\lpetkunas546\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\System.Buffers.dll
+C:\Users\lpetkunas546\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\System.Collections.Immutable.dll
+C:\Users\lpetkunas546\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\System.Memory.dll
+C:\Users\lpetkunas546\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\lpetkunas546\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\System.Reflection.Metadata.dll
+C:\Users\lpetkunas546\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\lpetkunas546\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\lpetkunas546\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\lpetkunas546\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\Microsoft.CodeAnalysis.pdb
+C:\Users\lpetkunas546\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\Microsoft.CodeAnalysis.xml
+C:\Users\lpetkunas546\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\Microsoft.CodeAnalysis.CSharp.pdb
+C:\Users\lpetkunas546\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\Microsoft.CodeAnalysis.CSharp.xml
+C:\Users\lpetkunas546\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\System.Buffers.xml
+C:\Users\lpetkunas546\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\System.Collections.Immutable.xml
+C:\Users\lpetkunas546\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\System.Memory.xml
+C:\Users\lpetkunas546\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\lpetkunas546\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\System.Reflection.Metadata.xml
+C:\Users\lpetkunas546\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\lpetkunas546\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\lpetkunas546\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lpetkunas546\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lpetkunas546\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lpetkunas546\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lpetkunas546\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lpetkunas546\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lpetkunas546\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lpetkunas546\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lpetkunas546\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lpetkunas546\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lpetkunas546\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lpetkunas546\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lpetkunas546\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lpetkunas546\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lpetkunas546\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lpetkunas546\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lpetkunas546\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lpetkunas546\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lpetkunas546\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lpetkunas546\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lpetkunas546\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lpetkunas546\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lpetkunas546\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lpetkunas546\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lpetkunas546\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lpetkunas546\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lpetkunas546\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\obj\Debug\Petkunas, Lukas - Byte-size Quiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lpetkunas546\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\obj\Debug\Petkunas__Lukas___Byte_size_Quiz.frmChallenge2.resources
+C:\Users\lpetkunas546\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\obj\Debug\Petkunas__Lukas___Byte_size_Quiz.frmChallenge3.resources
+C:\Users\lpetkunas546\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\obj\Debug\Petkunas__Lukas___Byte_size_Quiz.frmLeaderboard.resources
+C:\Users\lpetkunas546\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\obj\Debug\Petkunas__Lukas___Byte_size_Quiz.frmStaffMenu.resources
+C:\Users\lpetkunas546\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\obj\Debug\Petkunas__Lukas___Byte_size_Quiz.frmModifyUsers.resources
+C:\Users\lpetkunas546\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\obj\Debug\Petkunas__Lukas___Byte_size_Quiz.frmHelp1.resources
+C:\Users\lpetkunas546\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\obj\Debug\Petkunas__Lukas___Byte_size_Quiz.frmHelp2.resources
+C:\Users\lpetkunas546\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\obj\Debug\Petkunas__Lukas___Byte_size_Quiz.frmHelp3.resources
+C:\Users\lpetkunas546\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\obj\Debug\Petkunas__Lukas___Byte_size_Quiz.frmHelpMain.resources
+C:\Users\lpetkunas546\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\obj\Debug\Petkunas__Lukas___Byte_size_Quiz.frmShutdown.resources
+C:\Users\lpetkunas546.C2KEN\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\lpetkunas546.C2KEN\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\lpetkunas546.C2KEN\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\lpetkunas546.C2KEN\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\MonacoCodeEditor\index.html
+C:\Users\lpetkunas546.C2KEN\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\MonacoCodeEditor\min\vs\base\browser\ui\codicons\codicon\codicon.ttf
+C:\Users\lpetkunas546.C2KEN\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\MonacoCodeEditor\min\vs\base\worker\workerMain.js
+C:\Users\lpetkunas546.C2KEN\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\MonacoCodeEditor\min\vs\basic-languages\csharp\csharp.js
+C:\Users\lpetkunas546.C2KEN\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\MonacoCodeEditor\min\vs\editor\editor.main.css
+C:\Users\lpetkunas546.C2KEN\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\MonacoCodeEditor\min\vs\editor\editor.main.js
+C:\Users\lpetkunas546.C2KEN\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\MonacoCodeEditor\min\vs\language\css\cssMode.js
+C:\Users\lpetkunas546.C2KEN\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\MonacoCodeEditor\min\vs\language\css\cssWorker.js
+C:\Users\lpetkunas546.C2KEN\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\MonacoCodeEditor\min\vs\language\html\htmlMode.js
+C:\Users\lpetkunas546.C2KEN\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\MonacoCodeEditor\min\vs\language\html\htmlWorker.js
+C:\Users\lpetkunas546.C2KEN\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\MonacoCodeEditor\min\vs\language\json\jsonMode.js
+C:\Users\lpetkunas546.C2KEN\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\MonacoCodeEditor\min\vs\language\json\jsonWorker.js
+C:\Users\lpetkunas546.C2KEN\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\MonacoCodeEditor\min\vs\language\typescript\tsMode.js
+C:\Users\lpetkunas546.C2KEN\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\MonacoCodeEditor\min\vs\language\typescript\tsWorker.js
+C:\Users\lpetkunas546.C2KEN\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\MonacoCodeEditor\min\vs\loader.js
+C:\Users\lpetkunas546.C2KEN\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\MonacoCodeEditor\min\vs\nls.messages.de.js
+C:\Users\lpetkunas546.C2KEN\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\MonacoCodeEditor\min\vs\nls.messages.es.js
+C:\Users\lpetkunas546.C2KEN\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\MonacoCodeEditor\min\vs\nls.messages.fr.js
+C:\Users\lpetkunas546.C2KEN\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\MonacoCodeEditor\min\vs\nls.messages.it.js
+C:\Users\lpetkunas546.C2KEN\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\MonacoCodeEditor\min\vs\nls.messages.ja.js
+C:\Users\lpetkunas546.C2KEN\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\MonacoCodeEditor\min\vs\nls.messages.ko.js
+C:\Users\lpetkunas546.C2KEN\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\MonacoCodeEditor\min\vs\nls.messages.ru.js
+C:\Users\lpetkunas546.C2KEN\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\MonacoCodeEditor\min\vs\nls.messages.zh-cn.js
+C:\Users\lpetkunas546.C2KEN\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\MonacoCodeEditor\min\vs\nls.messages.zh-tw.js
+C:\Users\lpetkunas546.C2KEN\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\Petkunas, Lukas - Byte-size Quiz.exe.config
+C:\Users\lpetkunas546.C2KEN\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\Petkunas, Lukas - Byte-size Quiz.exe
+C:\Users\lpetkunas546.C2KEN\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\Petkunas, Lukas - Byte-size Quiz.pdb
+C:\Users\lpetkunas546.C2KEN\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\lpetkunas546.C2KEN\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\Microsoft.CodeAnalysis.dll
+C:\Users\lpetkunas546.C2KEN\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\Microsoft.Web.WebView2.Core.dll
+C:\Users\lpetkunas546.C2KEN\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\lpetkunas546.C2KEN\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\lpetkunas546.C2KEN\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\System.Buffers.dll
+C:\Users\lpetkunas546.C2KEN\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\System.Collections.Immutable.dll
+C:\Users\lpetkunas546.C2KEN\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\System.Memory.dll
+C:\Users\lpetkunas546.C2KEN\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\lpetkunas546.C2KEN\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\System.Reflection.Metadata.dll
+C:\Users\lpetkunas546.C2KEN\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\lpetkunas546.C2KEN\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\lpetkunas546.C2KEN\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\lpetkunas546.C2KEN\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\Microsoft.CodeAnalysis.pdb
+C:\Users\lpetkunas546.C2KEN\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\Microsoft.CodeAnalysis.xml
+C:\Users\lpetkunas546.C2KEN\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\Microsoft.CodeAnalysis.CSharp.pdb
+C:\Users\lpetkunas546.C2KEN\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\Microsoft.CodeAnalysis.CSharp.xml
+C:\Users\lpetkunas546.C2KEN\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\Microsoft.Web.WebView2.Core.xml
+C:\Users\lpetkunas546.C2KEN\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\Microsoft.Web.WebView2.WinForms.xml
+C:\Users\lpetkunas546.C2KEN\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\Microsoft.Web.WebView2.Wpf.xml
+C:\Users\lpetkunas546.C2KEN\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\System.Buffers.xml
+C:\Users\lpetkunas546.C2KEN\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\System.Collections.Immutable.xml
+C:\Users\lpetkunas546.C2KEN\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\System.Memory.xml
+C:\Users\lpetkunas546.C2KEN\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\lpetkunas546.C2KEN\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\System.Reflection.Metadata.xml
+C:\Users\lpetkunas546.C2KEN\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\lpetkunas546.C2KEN\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\lpetkunas546.C2KEN\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lpetkunas546.C2KEN\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lpetkunas546.C2KEN\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lpetkunas546.C2KEN\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lpetkunas546.C2KEN\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lpetkunas546.C2KEN\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lpetkunas546.C2KEN\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lpetkunas546.C2KEN\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lpetkunas546.C2KEN\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lpetkunas546.C2KEN\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lpetkunas546.C2KEN\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lpetkunas546.C2KEN\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lpetkunas546.C2KEN\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lpetkunas546.C2KEN\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lpetkunas546.C2KEN\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lpetkunas546.C2KEN\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lpetkunas546.C2KEN\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lpetkunas546.C2KEN\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lpetkunas546.C2KEN\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lpetkunas546.C2KEN\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lpetkunas546.C2KEN\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lpetkunas546.C2KEN\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lpetkunas546.C2KEN\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lpetkunas546.C2KEN\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lpetkunas546.C2KEN\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lpetkunas546.C2KEN\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\bin\Debug\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lpetkunas546.C2KEN\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\obj\Debug\Petkunas, Lukas - Byte-size Quiz.csproj.AssemblyReference.cache
+C:\Users\lpetkunas546.C2KEN\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\obj\Debug\Petkunas__Lukas___Byte_size_Quiz.frmChallenge1.resources
+C:\Users\lpetkunas546.C2KEN\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\obj\Debug\Petkunas__Lukas___Byte_size_Quiz.frmChallenge2.resources
+C:\Users\lpetkunas546.C2KEN\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\obj\Debug\Petkunas__Lukas___Byte_size_Quiz.frmChallenge3.resources
+C:\Users\lpetkunas546.C2KEN\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\obj\Debug\Petkunas__Lukas___Byte_size_Quiz.frmHelp1.resources
+C:\Users\lpetkunas546.C2KEN\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\obj\Debug\Petkunas__Lukas___Byte_size_Quiz.frmHelp2.resources
+C:\Users\lpetkunas546.C2KEN\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\obj\Debug\Petkunas__Lukas___Byte_size_Quiz.frmHelp3.resources
+C:\Users\lpetkunas546.C2KEN\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\obj\Debug\Petkunas__Lukas___Byte_size_Quiz.frmHelpMain.resources
+C:\Users\lpetkunas546.C2KEN\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\obj\Debug\Petkunas__Lukas___Byte_size_Quiz.frmLeaderboard.resources
+C:\Users\lpetkunas546.C2KEN\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\obj\Debug\Petkunas__Lukas___Byte_size_Quiz.frmLogin.resources
+C:\Users\lpetkunas546.C2KEN\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\obj\Debug\Petkunas__Lukas___Byte_size_Quiz.frmMainMenu.resources
+C:\Users\lpetkunas546.C2KEN\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\obj\Debug\Petkunas__Lukas___Byte_size_Quiz.frmModifyUsers.resources
+C:\Users\lpetkunas546.C2KEN\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\obj\Debug\Petkunas__Lukas___Byte_size_Quiz.frmRegister.resources
+C:\Users\lpetkunas546.C2KEN\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\obj\Debug\Petkunas__Lukas___Byte_size_Quiz.frmShutdown.resources
+C:\Users\lpetkunas546.C2KEN\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\obj\Debug\Petkunas__Lukas___Byte_size_Quiz.frmStaffMenu.resources
+C:\Users\lpetkunas546.C2KEN\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\obj\Debug\Petkunas__Lukas___Byte_size_Quiz.Properties.Resources.resources
+C:\Users\lpetkunas546.C2KEN\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\obj\Debug\Petkunas, Lukas - Byte-size Quiz.csproj.GenerateResource.cache
+C:\Users\lpetkunas546.C2KEN\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\obj\Debug\Petkunas, Lukas - Byte-size Quiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lpetkunas546.C2KEN\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\obj\Debug\Petkunas, Lukas - Byte-size Quiz.csproj.CoreCompileInputs.cache
+C:\Users\lpetkunas546.C2KEN\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\obj\Debug\Petkunas, Lukas - Byte-size Quiz.csproj.CopyComplete
+C:\Users\lpetkunas546.C2KEN\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\obj\Debug\Petkunas, Lukas - Byte-size Quiz.exe
+C:\Users\lpetkunas546.C2KEN\OneDrive - C2k\Petkunas, Lukas - Byte-size Quiz\Petkunas, Lukas - Byte-size Quiz\obj\Debug\Petkunas, Lukas - Byte-size Quiz.pdb
+C:\Users\lforrest738\OneDrive - C2k\0 FM 24-25\AS SSD\SDV21-71605-2097 LP\CW\CW\bin\Debug\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\lforrest738\OneDrive - C2k\0 FM 24-25\AS SSD\SDV21-71605-2097 LP\CW\CW\bin\Debug\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\lforrest738\OneDrive - C2k\0 FM 24-25\AS SSD\SDV21-71605-2097 LP\CW\CW\bin\Debug\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\lforrest738\OneDrive - C2k\0 FM 24-25\AS SSD\SDV21-71605-2097 LP\CW\CW\bin\Debug\MonacoCodeEditor\index.html
+C:\Users\lforrest738\OneDrive - C2k\0 FM 24-25\AS SSD\SDV21-71605-2097 LP\CW\CW\bin\Debug\MonacoCodeEditor\min\vs\base\browser\ui\codicons\codicon\codicon.ttf
+C:\Users\lforrest738\OneDrive - C2k\0 FM 24-25\AS SSD\SDV21-71605-2097 LP\CW\CW\bin\Debug\MonacoCodeEditor\min\vs\base\worker\workerMain.js
+C:\Users\lforrest738\OneDrive - C2k\0 FM 24-25\AS SSD\SDV21-71605-2097 LP\CW\CW\bin\Debug\MonacoCodeEditor\min\vs\basic-languages\csharp\csharp.js
+C:\Users\lforrest738\OneDrive - C2k\0 FM 24-25\AS SSD\SDV21-71605-2097 LP\CW\CW\bin\Debug\MonacoCodeEditor\min\vs\editor\editor.main.css
+C:\Users\lforrest738\OneDrive - C2k\0 FM 24-25\AS SSD\SDV21-71605-2097 LP\CW\CW\bin\Debug\MonacoCodeEditor\min\vs\editor\editor.main.js
+C:\Users\lforrest738\OneDrive - C2k\0 FM 24-25\AS SSD\SDV21-71605-2097 LP\CW\CW\bin\Debug\MonacoCodeEditor\min\vs\language\css\cssMode.js
+C:\Users\lforrest738\OneDrive - C2k\0 FM 24-25\AS SSD\SDV21-71605-2097 LP\CW\CW\bin\Debug\MonacoCodeEditor\min\vs\language\css\cssWorker.js
+C:\Users\lforrest738\OneDrive - C2k\0 FM 24-25\AS SSD\SDV21-71605-2097 LP\CW\CW\bin\Debug\MonacoCodeEditor\min\vs\language\html\htmlMode.js
+C:\Users\lforrest738\OneDrive - C2k\0 FM 24-25\AS SSD\SDV21-71605-2097 LP\CW\CW\bin\Debug\MonacoCodeEditor\min\vs\language\html\htmlWorker.js
+C:\Users\lforrest738\OneDrive - C2k\0 FM 24-25\AS SSD\SDV21-71605-2097 LP\CW\CW\bin\Debug\MonacoCodeEditor\min\vs\language\json\jsonMode.js
+C:\Users\lforrest738\OneDrive - C2k\0 FM 24-25\AS SSD\SDV21-71605-2097 LP\CW\CW\bin\Debug\MonacoCodeEditor\min\vs\language\json\jsonWorker.js
+C:\Users\lforrest738\OneDrive - C2k\0 FM 24-25\AS SSD\SDV21-71605-2097 LP\CW\CW\bin\Debug\MonacoCodeEditor\min\vs\language\typescript\tsMode.js
+C:\Users\lforrest738\OneDrive - C2k\0 FM 24-25\AS SSD\SDV21-71605-2097 LP\CW\CW\bin\Debug\MonacoCodeEditor\min\vs\language\typescript\tsWorker.js
+C:\Users\lforrest738\OneDrive - C2k\0 FM 24-25\AS SSD\SDV21-71605-2097 LP\CW\CW\bin\Debug\MonacoCodeEditor\min\vs\loader.js
+C:\Users\lforrest738\OneDrive - C2k\0 FM 24-25\AS SSD\SDV21-71605-2097 LP\CW\CW\bin\Debug\MonacoCodeEditor\min\vs\nls.messages.de.js
+C:\Users\lforrest738\OneDrive - C2k\0 FM 24-25\AS SSD\SDV21-71605-2097 LP\CW\CW\bin\Debug\MonacoCodeEditor\min\vs\nls.messages.es.js
+C:\Users\lforrest738\OneDrive - C2k\0 FM 24-25\AS SSD\SDV21-71605-2097 LP\CW\CW\bin\Debug\MonacoCodeEditor\min\vs\nls.messages.fr.js
+C:\Users\lforrest738\OneDrive - C2k\0 FM 24-25\AS SSD\SDV21-71605-2097 LP\CW\CW\bin\Debug\MonacoCodeEditor\min\vs\nls.messages.it.js
+C:\Users\lforrest738\OneDrive - C2k\0 FM 24-25\AS SSD\SDV21-71605-2097 LP\CW\CW\bin\Debug\MonacoCodeEditor\min\vs\nls.messages.ja.js
+C:\Users\lforrest738\OneDrive - C2k\0 FM 24-25\AS SSD\SDV21-71605-2097 LP\CW\CW\bin\Debug\MonacoCodeEditor\min\vs\nls.messages.ko.js
+C:\Users\lforrest738\OneDrive - C2k\0 FM 24-25\AS SSD\SDV21-71605-2097 LP\CW\CW\bin\Debug\MonacoCodeEditor\min\vs\nls.messages.ru.js
+C:\Users\lforrest738\OneDrive - C2k\0 FM 24-25\AS SSD\SDV21-71605-2097 LP\CW\CW\bin\Debug\MonacoCodeEditor\min\vs\nls.messages.zh-cn.js
+C:\Users\lforrest738\OneDrive - C2k\0 FM 24-25\AS SSD\SDV21-71605-2097 LP\CW\CW\bin\Debug\MonacoCodeEditor\min\vs\nls.messages.zh-tw.js
+C:\Users\lforrest738\OneDrive - C2k\0 FM 24-25\AS SSD\SDV21-71605-2097 LP\CW\CW\bin\Debug\Petkunas, Lukas - Byte-size Quiz.exe.config
+C:\Users\lforrest738\OneDrive - C2k\0 FM 24-25\AS SSD\SDV21-71605-2097 LP\CW\CW\bin\Debug\Petkunas, Lukas - Byte-size Quiz.exe
+C:\Users\lforrest738\OneDrive - C2k\0 FM 24-25\AS SSD\SDV21-71605-2097 LP\CW\CW\bin\Debug\Petkunas, Lukas - Byte-size Quiz.pdb
+C:\Users\lforrest738\OneDrive - C2k\0 FM 24-25\AS SSD\SDV21-71605-2097 LP\CW\CW\bin\Debug\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\lforrest738\OneDrive - C2k\0 FM 24-25\AS SSD\SDV21-71605-2097 LP\CW\CW\bin\Debug\Microsoft.CodeAnalysis.dll
+C:\Users\lforrest738\OneDrive - C2k\0 FM 24-25\AS SSD\SDV21-71605-2097 LP\CW\CW\bin\Debug\Microsoft.Web.WebView2.Core.dll
+C:\Users\lforrest738\OneDrive - C2k\0 FM 24-25\AS SSD\SDV21-71605-2097 LP\CW\CW\bin\Debug\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\lforrest738\OneDrive - C2k\0 FM 24-25\AS SSD\SDV21-71605-2097 LP\CW\CW\bin\Debug\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\lforrest738\OneDrive - C2k\0 FM 24-25\AS SSD\SDV21-71605-2097 LP\CW\CW\bin\Debug\System.Buffers.dll
+C:\Users\lforrest738\OneDrive - C2k\0 FM 24-25\AS SSD\SDV21-71605-2097 LP\CW\CW\bin\Debug\System.Collections.Immutable.dll
+C:\Users\lforrest738\OneDrive - C2k\0 FM 24-25\AS SSD\SDV21-71605-2097 LP\CW\CW\bin\Debug\System.Memory.dll
+C:\Users\lforrest738\OneDrive - C2k\0 FM 24-25\AS SSD\SDV21-71605-2097 LP\CW\CW\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\lforrest738\OneDrive - C2k\0 FM 24-25\AS SSD\SDV21-71605-2097 LP\CW\CW\bin\Debug\System.Reflection.Metadata.dll
+C:\Users\lforrest738\OneDrive - C2k\0 FM 24-25\AS SSD\SDV21-71605-2097 LP\CW\CW\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\lforrest738\OneDrive - C2k\0 FM 24-25\AS SSD\SDV21-71605-2097 LP\CW\CW\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\lforrest738\OneDrive - C2k\0 FM 24-25\AS SSD\SDV21-71605-2097 LP\CW\CW\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\lforrest738\OneDrive - C2k\0 FM 24-25\AS SSD\SDV21-71605-2097 LP\CW\CW\bin\Debug\Microsoft.CodeAnalysis.pdb
+C:\Users\lforrest738\OneDrive - C2k\0 FM 24-25\AS SSD\SDV21-71605-2097 LP\CW\CW\bin\Debug\Microsoft.CodeAnalysis.xml
+C:\Users\lforrest738\OneDrive - C2k\0 FM 24-25\AS SSD\SDV21-71605-2097 LP\CW\CW\bin\Debug\Microsoft.CodeAnalysis.CSharp.pdb
+C:\Users\lforrest738\OneDrive - C2k\0 FM 24-25\AS SSD\SDV21-71605-2097 LP\CW\CW\bin\Debug\Microsoft.CodeAnalysis.CSharp.xml
+C:\Users\lforrest738\OneDrive - C2k\0 FM 24-25\AS SSD\SDV21-71605-2097 LP\CW\CW\bin\Debug\Microsoft.Web.WebView2.Core.xml
+C:\Users\lforrest738\OneDrive - C2k\0 FM 24-25\AS SSD\SDV21-71605-2097 LP\CW\CW\bin\Debug\Microsoft.Web.WebView2.WinForms.xml
+C:\Users\lforrest738\OneDrive - C2k\0 FM 24-25\AS SSD\SDV21-71605-2097 LP\CW\CW\bin\Debug\Microsoft.Web.WebView2.Wpf.xml
+C:\Users\lforrest738\OneDrive - C2k\0 FM 24-25\AS SSD\SDV21-71605-2097 LP\CW\CW\bin\Debug\System.Buffers.xml
+C:\Users\lforrest738\OneDrive - C2k\0 FM 24-25\AS SSD\SDV21-71605-2097 LP\CW\CW\bin\Debug\System.Collections.Immutable.xml
+C:\Users\lforrest738\OneDrive - C2k\0 FM 24-25\AS SSD\SDV21-71605-2097 LP\CW\CW\bin\Debug\System.Memory.xml
+C:\Users\lforrest738\OneDrive - C2k\0 FM 24-25\AS SSD\SDV21-71605-2097 LP\CW\CW\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\lforrest738\OneDrive - C2k\0 FM 24-25\AS SSD\SDV21-71605-2097 LP\CW\CW\bin\Debug\System.Reflection.Metadata.xml
+C:\Users\lforrest738\OneDrive - C2k\0 FM 24-25\AS SSD\SDV21-71605-2097 LP\CW\CW\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\lforrest738\OneDrive - C2k\0 FM 24-25\AS SSD\SDV21-71605-2097 LP\CW\CW\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\lforrest738\OneDrive - C2k\0 FM 24-25\AS SSD\SDV21-71605-2097 LP\CW\CW\bin\Debug\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lforrest738\OneDrive - C2k\0 FM 24-25\AS SSD\SDV21-71605-2097 LP\CW\CW\bin\Debug\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lforrest738\OneDrive - C2k\0 FM 24-25\AS SSD\SDV21-71605-2097 LP\CW\CW\bin\Debug\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lforrest738\OneDrive - C2k\0 FM 24-25\AS SSD\SDV21-71605-2097 LP\CW\CW\bin\Debug\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lforrest738\OneDrive - C2k\0 FM 24-25\AS SSD\SDV21-71605-2097 LP\CW\CW\bin\Debug\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lforrest738\OneDrive - C2k\0 FM 24-25\AS SSD\SDV21-71605-2097 LP\CW\CW\bin\Debug\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lforrest738\OneDrive - C2k\0 FM 24-25\AS SSD\SDV21-71605-2097 LP\CW\CW\bin\Debug\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lforrest738\OneDrive - C2k\0 FM 24-25\AS SSD\SDV21-71605-2097 LP\CW\CW\bin\Debug\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lforrest738\OneDrive - C2k\0 FM 24-25\AS SSD\SDV21-71605-2097 LP\CW\CW\bin\Debug\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lforrest738\OneDrive - C2k\0 FM 24-25\AS SSD\SDV21-71605-2097 LP\CW\CW\bin\Debug\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lforrest738\OneDrive - C2k\0 FM 24-25\AS SSD\SDV21-71605-2097 LP\CW\CW\bin\Debug\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lforrest738\OneDrive - C2k\0 FM 24-25\AS SSD\SDV21-71605-2097 LP\CW\CW\bin\Debug\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lforrest738\OneDrive - C2k\0 FM 24-25\AS SSD\SDV21-71605-2097 LP\CW\CW\bin\Debug\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lforrest738\OneDrive - C2k\0 FM 24-25\AS SSD\SDV21-71605-2097 LP\CW\CW\bin\Debug\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lforrest738\OneDrive - C2k\0 FM 24-25\AS SSD\SDV21-71605-2097 LP\CW\CW\bin\Debug\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lforrest738\OneDrive - C2k\0 FM 24-25\AS SSD\SDV21-71605-2097 LP\CW\CW\bin\Debug\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lforrest738\OneDrive - C2k\0 FM 24-25\AS SSD\SDV21-71605-2097 LP\CW\CW\bin\Debug\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lforrest738\OneDrive - C2k\0 FM 24-25\AS SSD\SDV21-71605-2097 LP\CW\CW\bin\Debug\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lforrest738\OneDrive - C2k\0 FM 24-25\AS SSD\SDV21-71605-2097 LP\CW\CW\bin\Debug\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lforrest738\OneDrive - C2k\0 FM 24-25\AS SSD\SDV21-71605-2097 LP\CW\CW\bin\Debug\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lforrest738\OneDrive - C2k\0 FM 24-25\AS SSD\SDV21-71605-2097 LP\CW\CW\bin\Debug\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lforrest738\OneDrive - C2k\0 FM 24-25\AS SSD\SDV21-71605-2097 LP\CW\CW\bin\Debug\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lforrest738\OneDrive - C2k\0 FM 24-25\AS SSD\SDV21-71605-2097 LP\CW\CW\bin\Debug\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lforrest738\OneDrive - C2k\0 FM 24-25\AS SSD\SDV21-71605-2097 LP\CW\CW\bin\Debug\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lforrest738\OneDrive - C2k\0 FM 24-25\AS SSD\SDV21-71605-2097 LP\CW\CW\bin\Debug\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lforrest738\OneDrive - C2k\0 FM 24-25\AS SSD\SDV21-71605-2097 LP\CW\CW\bin\Debug\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lforrest738\OneDrive - C2k\0 FM 24-25\AS SSD\SDV21-71605-2097 LP\CW\CW\obj\Debug\Petkunas, Lukas - Byte-size Quiz.csproj.AssemblyReference.cache
+C:\Users\lforrest738\OneDrive - C2k\0 FM 24-25\AS SSD\SDV21-71605-2097 LP\CW\CW\obj\Debug\Petkunas__Lukas___Byte_size_Quiz.frmChallenge1.resources
+C:\Users\lforrest738\OneDrive - C2k\0 FM 24-25\AS SSD\SDV21-71605-2097 LP\CW\CW\obj\Debug\Petkunas__Lukas___Byte_size_Quiz.frmChallenge2.resources
+C:\Users\lforrest738\OneDrive - C2k\0 FM 24-25\AS SSD\SDV21-71605-2097 LP\CW\CW\obj\Debug\Petkunas__Lukas___Byte_size_Quiz.frmChallenge3.resources
+C:\Users\lforrest738\OneDrive - C2k\0 FM 24-25\AS SSD\SDV21-71605-2097 LP\CW\CW\obj\Debug\Petkunas__Lukas___Byte_size_Quiz.frmHelp1.resources
+C:\Users\lforrest738\OneDrive - C2k\0 FM 24-25\AS SSD\SDV21-71605-2097 LP\CW\CW\obj\Debug\Petkunas__Lukas___Byte_size_Quiz.frmHelp2.resources
+C:\Users\lforrest738\OneDrive - C2k\0 FM 24-25\AS SSD\SDV21-71605-2097 LP\CW\CW\obj\Debug\Petkunas__Lukas___Byte_size_Quiz.frmHelp3.resources
+C:\Users\lforrest738\OneDrive - C2k\0 FM 24-25\AS SSD\SDV21-71605-2097 LP\CW\CW\obj\Debug\Petkunas__Lukas___Byte_size_Quiz.frmHelpMain.resources
+C:\Users\lforrest738\OneDrive - C2k\0 FM 24-25\AS SSD\SDV21-71605-2097 LP\CW\CW\obj\Debug\Petkunas__Lukas___Byte_size_Quiz.frmLeaderboard.resources
+C:\Users\lforrest738\OneDrive - C2k\0 FM 24-25\AS SSD\SDV21-71605-2097 LP\CW\CW\obj\Debug\Petkunas__Lukas___Byte_size_Quiz.frmLogin.resources
+C:\Users\lforrest738\OneDrive - C2k\0 FM 24-25\AS SSD\SDV21-71605-2097 LP\CW\CW\obj\Debug\Petkunas__Lukas___Byte_size_Quiz.frmMainMenu.resources
+C:\Users\lforrest738\OneDrive - C2k\0 FM 24-25\AS SSD\SDV21-71605-2097 LP\CW\CW\obj\Debug\Petkunas__Lukas___Byte_size_Quiz.frmModifyUsers.resources
+C:\Users\lforrest738\OneDrive - C2k\0 FM 24-25\AS SSD\SDV21-71605-2097 LP\CW\CW\obj\Debug\Petkunas__Lukas___Byte_size_Quiz.frmRegister.resources
+C:\Users\lforrest738\OneDrive - C2k\0 FM 24-25\AS SSD\SDV21-71605-2097 LP\CW\CW\obj\Debug\Petkunas__Lukas___Byte_size_Quiz.frmShutdown.resources
+C:\Users\lforrest738\OneDrive - C2k\0 FM 24-25\AS SSD\SDV21-71605-2097 LP\CW\CW\obj\Debug\Petkunas__Lukas___Byte_size_Quiz.frmStaffMenu.resources
+C:\Users\lforrest738\OneDrive - C2k\0 FM 24-25\AS SSD\SDV21-71605-2097 LP\CW\CW\obj\Debug\Petkunas__Lukas___Byte_size_Quiz.Properties.Resources.resources
+C:\Users\lforrest738\OneDrive - C2k\0 FM 24-25\AS SSD\SDV21-71605-2097 LP\CW\CW\obj\Debug\Petkunas, Lukas - Byte-size Quiz.csproj.GenerateResource.cache
+C:\Users\lforrest738\OneDrive - C2k\0 FM 24-25\AS SSD\SDV21-71605-2097 LP\CW\CW\obj\Debug\Petkunas, Lukas - Byte-size Quiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lforrest738\OneDrive - C2k\0 FM 24-25\AS SSD\SDV21-71605-2097 LP\CW\CW\obj\Debug\Petkunas, Lukas - Byte-size Quiz.csproj.CoreCompileInputs.cache
+C:\Users\lforrest738\OneDrive - C2k\0 FM 24-25\AS SSD\SDV21-71605-2097 LP\CW\CW\obj\Debug\Petkunas, Lukas - Byte-size Quiz.csproj.CopyComplete
+C:\Users\lforrest738\OneDrive - C2k\0 FM 24-25\AS SSD\SDV21-71605-2097 LP\CW\CW\obj\Debug\Petkunas, Lukas - Byte-size Quiz.exe
+C:\Users\lforrest738\OneDrive - C2k\0 FM 24-25\AS SSD\SDV21-71605-2097 LP\CW\CW\obj\Debug\Petkunas, Lukas - Byte-size Quiz.pdb

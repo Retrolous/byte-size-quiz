@@ -1,0 +1,117 @@
+"In this task you are provided with two variables, quote and substring..."
+const string quote = "I do not like green eggs and ham. I do not like them, Sam-I-Am.";
+const string substring = "green eggs and ham";
+int quoteLength = quote.Length;
+int index = quote.IndexOf(substring);
+string revisedQuote = quote.Substring(0, index + substring.Length + 1);
+return $"String length is {quoteLength}. {revisedQuote}";
+
+-------------------------------
+"In the next string task, you are given the same quote..."
+const string quote = "I dO nOT lIke gREen eGgS anD HAM";
+string fixedQuote = "I" + quote.Substring(1).ToLower();
+fixedQuote = fixedQuote.Replace("green eggs and ham", "spam");
+string finalQuote = fixedQuote + ".";
+return finalQuote;
+
+-------------------------------
+"Check if 'password' meets strength criteria:"
+string password = "Pass123!";
+string passwordStrength = "Strong";
+if(password.Length < 12 || !password.Any(char.IsUpper) || !password.Any(char.IsLower) || !password.Any(char.IsSymbol)) passwordStrength = "Weak";
+
+// Your code here
+return passwordStrength;
+
+--------------------------------
+"There are three groups, each consisting of a statement and two variables. For each group, write a test proving or disproving the statement made."
+// Statement 1: The elephant weighs less than the mouse
+const int eleWeight = 1000;
+const int mouseWeight = 2;
+// Statement 2: The ostrich is taller than the duck
+const double ostrichHeight = 2;
+const double duckHeight = 0.3;
+// Statement 3: Two two passwords match
+const string pwd1 = "stromboli";
+const string pwd2 = "stROmBoLI";
+
+// Add your code here
+bool weightComparison = eleWeight < mouseWeight;
+bool heightComparison = ostrichHeight > duckHeight;
+bool pwdMatch = pwd1 == pwd2;
+return $"{weightComparison} {heightComparison} {pwdMatch}";
+
+--------------------------------
+"You’re given an integer array 'numbers'. Calculate the sum..."
+int[] numbers = { 3, 8, 2, 10, 5 };
+int evenSum = 0;
+foreach(int num in numbers){
+    if (num % 2 == 0) evenSum += num; 
+}
+// Your code here
+return $"Sum of even numbers: {evenSum}";
+
+--------------------------------
+"You're provided with some existing code, which has two errors present in it."
+string myName = "Default";
+myName = "Alex";
+int myAge = 22;
+return $"My name is {myName}. In 10 years, I'll be {myAge + 10}";
+
+--------------------------------
+"Now let's move on to another task. Here you are provided with a string to work with."
+string myString = "Ryu+Ken+Chun-Li+Cammy+Guile+Sakura+Sagat+Juri";
+string[] myArray = myString.Split('+');
+int arrayLength = myArray.Length;
+string lastItem = myArray[arrayLength - 1];
+ return $"{arrayLength} {lastItem}";
+--------------------------------
+"You are given a string variable called sentence containing a sentence."
+string sentence = "This is a simple sentence";
+string[] sentenceParts = sentence.Split(' ');
+int wordCount = sentenceParts.Length;
+return $"Number of words: {wordCount}";
+
+--------------------------------
+"Clean up a book title stored in 'bookTitle' (e.g., "the_hunger_games"):"
+string bookTitle = "the_hunger_games";
+bookTitle = bookTitle.Replace('_', ' ');
+string[] bookParts = bookTitle.Split(' ');
+for(int i = 0; i < bookParts.Length; i++){
+    bookParts[i] = bookParts[i].Substring(0, 1).ToUpper() + bookParts[i].Substring(1).ToLower();
+}
+string cleanTitle = String.Join(" ", bookParts);
+// Your code here
+return cleanTitle;
+
+--------------------------------
+"Create four variables containing numbers; call them something sensible."
+int firstNum = 5;
+int secondNum = 7;
+int thirdNum = 5;
+int fourthNum = 9;
+
+int addition = firstNum + secondNum;
+int subtraction = fourthNum - thirdNum;
+int finalResult = addition * subtraction;
+int evenOddResult = finalResult % 2;
+return $"finalResult is {finalResult} and evenOddResult is {evenOddResult}";
+--------------------------------
+"Calculate the average temperature ('avgTemp')"
+double[] temperatures = { 25.5, 31.0, 29.5, 30.5, 28.0 };
+double avgTemp = temperatures.Average();
+int hotDays = 0;
+foreach(double temp in temperatures){
+    if(temp > 30) hotDays++;
+}
+// Your code here
+return $"Average: {avgTemp:F1}°C, Hot days: {hotDays}";
+
+---------------------------------
+"Validate a username ('user') and password ('pass'):"
+string user = "admin_123";
+string pass = "weakpass";
+bool validUser = (user.Length >= 5 && !user.Contains(" "));
+bool validPass = (pass.Length >= 8 && pass.Any(char.IsDigit));
+// Your code here
+return $"Valid: {validUser}, Secure: {validPass}";

@@ -1,0 +1,16 @@
+Title,Text,Difficulty,CorrectReturn,AttemptGold,AttemptSilver,AttemptBronze,MinNoOfConnections,Gate1,Gate2,Gate3...
+Basic NOT Gate,Use a NOT gate to invert the input signal.,Easy,false,1,2,3,2,NOT
+Basic OR Gate,Use an OR gate to determine the output when one input is true.,Easy,true,1,2,3,2,OR
+OR Gate with Buffer,Use an OR gate and a Buffer to determine the output when both inputs are true.,Easy,true,1,2,3,4,OR,BUFFER
+AND Gate with Buffer,Use an AND gate and a Buffer to evaluate the signal.,Easy,true,2,3,4,3,AND,BUFFER
+Double NOT,Use two NOT gates in a row to see what happens.,Easy,true,2,3,4,2,NOT,NOT
+OR and NOT Combo,Use an OR gate and a NOT gate to determine the final output.,Medium,true,2,3,5,3,OR,NOT
+AND and OR Combination,Use an AND gate and an OR gate to correctly determine the output.,Medium,true,3,4,6,3,AND,OR
+XOR with Buffer,Use an XOR gate and a Buffer to determine the output.,Medium,true,3,5,7,2,XOR,BUFFER
+Multi AND with Buffers,Use multiple AND gates and Buffers to process the signal correctly.,Medium,true,3,5,7,4,AND,AND,BUFFER
+AND-OR-NOT Combination,Use AND OR and NOT gates to correctly determine the output.,Hard,true,4,6,9,6,AND,OR,NOT
+NAND and NOR Logic,Use NAND and NOR gates to get the expected result.,Hard,true,4,6,9,4,NAND,NOR
+XOR Chain,Use multiple XOR gates to correctly process the signal.,Hard,false,5,7,10,4,XOR,XOR,XOR
+Complex OR with NOT and Buffer,Use multiple OR NOT gates and Buffers to achieve the final output.,Hard,true,4,6,10,7,OR,OR,NOT,NOT,BUFFER
+XNOR Challenge,Use XNOR gates to determine the final output.,Very Hard,false,6,9,12,2,XNOR,XNOR
+Multi-Level Logic,Create a complex circuit using a combination of AND OR XOR and NOT gates.,Very Hard,true,6,9,12,6,AND,OR,XOR,NOT
